@@ -15,10 +15,10 @@
 
 ## 1. Resumen ejecutivo
 
-SAFEZONE realiza recorridos diariamente para transporte de efectivo, por que se usaron datos públicos de delitos repartidos en varias fuentes, con formatos y ubicaciones distintas. Con ello vamos a construir un proceso automático que todos los días descargue esos datos, los limpie, los guarde con su historial y calcule un nivel de riesgo por zona y periodo.
+SAFEZONE realiza recorridos diariamente para transporte de efectivo, por lo que se usaran datos públicos de delitos repartidos en varias fuentes, con formatos y ubicaciones distintas para construir un proceso automático que todos los días descargue esos datos, los limpie, los guarde con su historial y calcule un nivel de riesgo por zona y periodo.
 Los resultados quedarán disponibles en un servicio de consulta y en archivos listos para sus herramientas de visualización, siempre con su fecha, origen y limitaciones.
 Entregamos en 8 semanas (6 hitos), con capacitación y 30 días de soporte posterior.
-El precio total es de **$1,216,800 MXN + IVA** ($1,411,488 con IVA) y la operación mensual estimada es de **~$7,500 MXN**, ambos por debajo de los límites del RFP.
+El precio total es de **$1,216,800 MXN + IVA** ($1,411,488 con IVA) y la operación mensual estimada es de **$7,500 MXN**, ambos por debajo de los límites del RFP.
 
 ## 2. Alcance
 
